@@ -14,10 +14,12 @@ Simple adonisjs boilerplate project pre configured with [Bootstrap-5](https://ge
 git clone https://github.com/feniljariwala82/adonisjs-bootstrap5-boilerplate.git
 ```
 
+##### If you are facing invalid hash issue then I request you to download the zip and follow below steps.
+
 ## Start Application
 
 ```bash
-cd adonisjs-bootstrap5-boilerplate/
+cd adonisjs-todo-app/
 yarn install
 yarn dev
 ```

@@ -19,7 +19,7 @@ git clone https://github.com/feniljariwala82/adonisjs-bootstrap5-boilerplate.git
 ## Start Application
 
 ```bash
-cd adonisjs-todo-app/
+cd adonisjs-bootstrap5-boilerplate/
 yarn install
 yarn dev
 ```

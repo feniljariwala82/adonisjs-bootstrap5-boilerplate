@@ -41,10 +41,10 @@ node server.js
 
 ## Why you should use this boilerplate?
 
-1. The main reason of using this boilerplate project is that it comes pre configured with bootstrap-5 and adonisjs
+1. The main reason of using this boilerplate project is that it comes pre configured with bootstrap@5.1.3, fontawesome@6.1.1 and AdonisJs framework
 2. And also you can write your customization code inside app.scss located in resources/scss/app.scss
 3. To learn more about Adonisjs framework click [here](https://adonisjs.com/)
-4. To learn more about Bootstrap customization click [here](https://getbootstrap.com/docs/5.0/customize/overview/)
+4. To learn more about Bootstrap customization click [here](https://getbootstrap.com/)
 
 ## Contributing
 

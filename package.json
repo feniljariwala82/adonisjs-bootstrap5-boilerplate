@@ -9,7 +9,8 @@
     "build": "node ace build --production",
     "start": "node server.js",
     "lint": "eslint . --ext=.ts",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "upgrade": "yarn upgrade-interactive --latest"
   },
   "devDependencies": {
     "@adonisjs/assembler": "^5.0.0",

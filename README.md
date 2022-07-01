@@ -1,10 +1,10 @@
 # About This Repository
 
-Simple adonisjs boilerplate project pre configured with [Bootstrap-5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+Simple adonisjs boilerplate project pre configured with [Bootstrap@5.1.3](https://getbootstrap.com/docs/5.1/getting-started/introduction/) and [Fontawesome@6.1.1](https://fontawesome.com/)
 
 ## Requirement
 
-1. git bash terminal(optional)
+1. Git bash terminal(optional)
 2. For cloning you must need git installed on your computer
 3. Nodejs must be installed
 
@@ -20,22 +20,22 @@ git clone https://github.com/feniljariwala82/adonisjs-bootstrap5-boilerplate.git
 
 ```bash
 cd adonisjs-bootstrap5-boilerplate/
-yarn install
-yarn dev
+npm install
+npm run dev
 ```
 
 ## Build Application
 
 ```bash
-yarn build
+npm run build
 cd build
-yarn install --production
+npm ci --production
 node server.js
 ```
 
 ## Making it your own
 
-1. Replace "name" field in the package.json file with your project name
+1. Replace "name, description and author" field in the package.json file with your information
 2. Close your code editor and rename the folder with your project name
 3. Go nuts!
 
@@ -43,8 +43,9 @@ node server.js
 
 1. The main reason of using this boilerplate project is that it comes pre configured with bootstrap@5.1.3, fontawesome@6.1.1 and AdonisJs framework
 2. And also you can write your customization code inside app.scss located in resources/scss/app.scss
-3. To learn more about Adonisjs framework click [here](https://adonisjs.com/)
-4. To learn more about Bootstrap customization click [here](https://getbootstrap.com/)
+3. To learn more about Adonisjs framework click [AdonisJs](https://adonisjs.com/)
+4. To learn more about Bootstrap customization click [Customize Bootstrap](https://getbootstrap.com/docs/5.1/customize/overview/)
+5. To learn more about Fontawesome click [Fontawesome](https://fontawesome.com/)
 
 ## Contributing
 
